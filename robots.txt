@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: */addday.php
+Disallow: */addweek.php
+Disallow: */addmonth.php
+Disallow: */utils.php
+Disallow: */logout.php
+Disallow: */db.php
